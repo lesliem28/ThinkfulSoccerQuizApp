@@ -220,7 +220,7 @@ function displayFinalResults () {
     <section class="quiz js-questions">
       <form id="finalResult">
         <fieldset>
-          <legend id="finalScore">You got ${numRight} right?</legend>
+          <legend id="finalScore">You got ${numRight} right.</legend>
           <p id="tryAgain">Do you want to try again?</p>
           <br><br>
         </fieldset>
